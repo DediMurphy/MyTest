@@ -12,6 +12,7 @@ import kotlinx.coroutines.launch
  * ViewModel untuk mengelola data pengguna dan menangani logika bisnis terkait pengguna.
  * @param userRepository Instance UserRepository untuk mengambil data pengguna dari API.
  */
+
 class UserViewModel(private val userRepository: UserRepository) : ViewModel() {
 
     // LiveData untuk daftar pengguna yang akan diperbarui dan diamati oleh UI

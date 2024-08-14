@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="profile">profile</string>
+    <string name="btn_palindrome">Palindrome</string>
+    <string name="btn_next">Next</string>
+    <string name="eth_palindrome">Palindrome</string>
+    <string name="et_palindrome">Palindrome</string>
+    <string name="eth_name">Name</string>
+    <string name="et_name">Name</string>
+    <string name="tv_welcome">Welcome</string>
+    <string name="second_name">NAME</string>
+    <string name="tv_selected_user_name">Selected User Name</string>
+    <string name="btn_choose_a_user">Choose a User</string>
+    <string name="tv_empty">No users available</string>
+</resources>
